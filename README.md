@@ -19,5 +19,7 @@
 * I updated the class in css amd consolidated redundant styling.
 
 ## Link to Website
+ https://ashleykohladler.github.io/01-HTML-CSS-Git-Code-Refactor/
 
 ## Screenshot
+![Screenshot](assets/images/Screen Shot 2021-02-19 at 10.48.41 PM.png)
