@@ -22,4 +22,4 @@
  https://ashleykohladler.github.io/01-HTML-CSS-Git-Code-Refactor/
 
 ## Screenshot
-![Screenshot](assets/images/Screen Shot 2021-02-19 at 10.48.41 PM.png)
+![Screenshot](01-HTML-CSS-Git-Code-Refactor/assets/images/Screen-Shot-2021-02-19-at-0.48.41-PM.png?raw=true)
