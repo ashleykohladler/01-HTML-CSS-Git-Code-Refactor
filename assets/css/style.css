@@ -50,6 +50,17 @@ p {
     font-size: 16px;
 }
 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h1 {
+    font-size: 20px;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -120,15 +131,4 @@ p {
 .other h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h1 {
-    font-size: 20px;
 }
